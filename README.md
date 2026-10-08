@@ -1,7 +1,7 @@
 # Dulo TV for Android
 
 An installable Android WebView wrapper for **https://dulotv.online/**
-(movie/TV discovery), built as Cat Building Project 003.
+(movie/TV discovery), built as Webview Building Project 003.
 
 - Package: `com.canejoy.app`
 - Current version: **1.0.6** (versionCode 7)
